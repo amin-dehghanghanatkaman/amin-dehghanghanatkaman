@@ -48,7 +48,7 @@ I develop computational methods for predicting disease progression using heterog
 ---
 
 ## Contact
-- 📧 amindehghanghanatkaman@gmail.com
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amin-dehghanghanatkaman-6227a7105)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=wnAb5UMAAAAJ&hl=en)
 - 🆔 [ORCID](https://orcid.org/0009-0002-3057-557X)
