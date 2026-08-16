@@ -14,7 +14,7 @@ I develop computational methods for predicting disease progression using heterog
 - Integrates voice biomarkers, clinical time-series, demographics, and clinical narrative embeddings
 - BiLSTM + multi-head self-attention with dynamic cross-modal fusion
 - **Code & Data:** [Repository link]
-- **Paper:** [DOI link]
+- **Paper:** [https://doi.org/10.1038/s41598-025-31898-y]
 
 ---
 
