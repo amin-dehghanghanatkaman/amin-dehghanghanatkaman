@@ -13,7 +13,7 @@ I develop computational methods for predicting disease progression using heterog
 - Dynamic context-aware multi-modal deep learning framework
 - Integrates voice biomarkers, clinical time-series, demographics, and clinical narrative embeddings
 - BiLSTM + multi-head self-attention with dynamic cross-modal fusion
-- **Code & Data:** [Repo]
+- **Code & Data:** [https://github.com/amin-dehghanghanatkaman/Parkinsons-progression]
 - **Paper:** [https://doi.org/10.1038/s41598-025-31898-y]
 
 ---
