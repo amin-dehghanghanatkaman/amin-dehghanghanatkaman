@@ -1,6 +1,6 @@
 # Amin Dehghanghanatkaman
 
-**Medical AI Researcher | Multi-modal Deep Learning | Neurodegenerative Disease Modeling**
+**Adjunct Lecturer & Medical AI Researcher | Multi-modal Deep Learning | Neurodegenerative Disease Modeling**
 
 I develop computational methods for predicting disease progression using heterogeneous, multi-modal clinical data. My work focuses on longitudinal modeling, missing modality handling, and clinical natural language processing.
 
